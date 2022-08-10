@@ -21,7 +21,7 @@
 
     ```shell
     $ npm install -D tailwindcss postcss autoprefixer gatsby-plugin-postcss
-    #run the init command to generate both
+    #run the init command to generate both tailwind.config.js and postcss.config.js.
     $ npx tailwindcss init -p
     ```
 1.  **Start developing.**
